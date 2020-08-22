@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm 4Ark, a web developer, love computer technology, advocate of geek spirit!
+Hi, I'm 4Ark, a web developer who likes computer technology and geek spirit!
 
 ### Contcat Me
 
