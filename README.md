@@ -2,6 +2,8 @@
 
 Hi, I'm 4Ark, a web developer who likes computer technology and geek spirit!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gd4ark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contcat Me
 
 -   GitHub： [gd4Ark](https://github.com/gd4Ark)
