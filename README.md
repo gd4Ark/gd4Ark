@@ -13,9 +13,9 @@ Hi, I'm 4Ark, a web developer. passionate about computer technology and geek spi
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [司马迁是一个什么样的人？](https://4ark.me/posts/about-si-ma-qian/)
+- [三月总结](https://4ark.me/posts/2021-mar-summary/)
 - [二月总结](https://4ark.me/posts/2020-feb-summary/)
 - [从思辨中学历史](https://4ark.me/posts/cong-si-bina-xue-xi-li-shi/)
 - [一月总结](https://4ark.me/posts/2021-jan-summary/)
-- [报任少卿书](https://4ark.me/posts/bao-ren-shao-qing-shu/)
-- [从 Composition API 源码分析 getCurrentInstance() 为何返回 null](https://4ark.me/posts/composition-api/)
 <!-- BLOG-POST-LIST:END -->
