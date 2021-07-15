@@ -15,7 +15,7 @@ Hi, I'm 4Ark, a web developer. passionate about computer technology and geek spi
 <!-- BLOG-POST-LIST:START -->
 - [司马迁是一个什么样的人？](https://4ark.me/posts/about-si-ma-qian/)
 - [三月总结](https://4ark.me/posts/2021-mar-summary/)
+- [读《史记》有感](https://4ark.me/posts/history-after-reading/)
 - [二月总结](https://4ark.me/posts/2020-feb-summary/)
 - [从思辨中学历史](https://4ark.me/posts/cong-si-bina-xue-xi-li-shi/)
-- [一月总结](https://4ark.me/posts/2021-jan-summary/)
 <!-- BLOG-POST-LIST:END -->
