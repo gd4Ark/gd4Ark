@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://4ark.me/atom.xml"
+          feed_list: "https://4ark.me/rss.xml"
