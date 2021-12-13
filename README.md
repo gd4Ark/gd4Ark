@@ -7,9 +7,9 @@ I'm 4Ark, a web developer.
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [vue-router 源码解析](https://4ark.me/post/vue-router-score-code/)
-- [vuex 源码解析](https://4ark.me/post/vuex-score-code/)
-- [composition-api 源码解析](https://4ark.me/post/composition-api-score-code/)
-- [uni-app 踩坑小记](https://4ark.me/post/uni-app-issues/)
-- [司马迁是一个什么样的人？](https://4ark.me/post/about-si-ma-qian/)
+- [一行 Object.keys&lpar;&rpar; 引发的血案](https://4ark.me/post/how-object-keys-work.html)
+- [vue-router 源码解析](https://4ark.me/post/vue-router-score-code.html)
+- [composition-api 源码解析](https://4ark.me/post/composition-api-score-code.html)
+- [vuex 源码解析](https://4ark.me/post/vuex-score-code.html)
+- [uni-app 踩坑小记](https://4ark.me/post/uni-app-issues.html)
 <!-- BLOG-POST-LIST:END -->
