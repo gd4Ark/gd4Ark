@@ -7,9 +7,9 @@ I'm 4Ark, a web developer.
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [周刊（草稿）](https://4ark.me/post/weekly-1.html)
 - [我为什么要写周刊](https://4ark.me/post/weekly-idea.html)
 - [2021 年度总结](https://4ark.me/post/2021-summary.html)
 - [一行 Object.keys&lpar;&rpar; 引发的血案](https://4ark.me/post/how-object-keys-work.html)
 - [vue-router 源码解析](https://4ark.me/post/vue-router-score-code.html)
-- [composition-api 源码解析](https://4ark.me/post/composition-api-score-code.html)
 <!-- BLOG-POST-LIST:END -->
