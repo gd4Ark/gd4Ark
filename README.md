@@ -7,7 +7,7 @@ I'm 4Ark, a web developer.
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [周刊第一期：搬新家了](https://4ark.me/post/weekly-01.html)
+- [周刊第1期：搬新家了](https://4ark.me/post/weekly-01.html)
 - [我为什么要写周刊](https://4ark.me/post/weekly-idea.html)
 - [2021 年度总结](https://4ark.me/post/2021-summary.html)
 - [一行 Object.keys&lpar;&rpar; 引发的血案](https://4ark.me/post/how-object-keys-work.html)
