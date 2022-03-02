@@ -6,8 +6,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Git tips](https://4ark.me/post/git-tips.html)
+- [Hg tips](https://4ark.me/post/hg-tips.html)
 - [周刊第2期：珍惜和平](https://4ark.me/post/weekly-02.html)
 - [周刊第1期：搬新家了](https://4ark.me/post/weekly-01.html)
 - [我为什么要写周刊](https://4ark.me/post/weekly-idea.html)
-- [2021 年度总结](https://4ark.me/post/2021-summary.html)
 <!-- BLOG-POST-LIST:END -->
