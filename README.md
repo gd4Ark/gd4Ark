@@ -5,9 +5,9 @@
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [周刊第12期：每周轮子计划、程序员应该如何写博客](https://4ark.me/post/weekly-12.html)
+- [每周轮子之 only-allow：统一规范团队包管理器](https://4ark.me/post/weekly-npm-packages-01.html)
 - [周刊第11期：扩大你的运气表面积（Luck Surface Area）](https://4ark.me/post/weekly-11.html)
 - [周刊第10期：你如何在网上找到可靠的信息？](https://4ark.me/post/weekly-10.html)
 - [周刊第9期：Web 发展中的 100 个重大事件](https://4ark.me/post/weekly-09.html)
-- [周刊第8期：阅读 ECMAScript 规范](https://4ark.me/post/weekly-08.html)
-- [周刊第7期：使用新的周刊模板](https://4ark.me/post/weekly-07.html)
 <!-- BLOG-POST-LIST:END -->
