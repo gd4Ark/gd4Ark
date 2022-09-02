@@ -16,3 +16,8 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://4ark.me/rss.xml"
+  update-readme:
+    name: Update GitHub Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: yunsii/stats-readme@main
