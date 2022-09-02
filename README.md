@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gd4ark)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 
 ### Latest Posts
 
