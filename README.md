@@ -3,7 +3,7 @@
 <!--START_SECTION:stats-->
 
 ```text
-Total Stars Earned     700                
+Total Stars Earned     699                
 Total Commits (2024)   12                  ╔═╗    
 Total PRs              108                 ╠═╣ ═╬═
 Total Issues           90                  ╩ ╩    
