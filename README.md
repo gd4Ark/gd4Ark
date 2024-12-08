@@ -3,11 +3,12 @@
 <!--START_SECTION:stats-->
 
 ```text
-Total Stars Earned     756                
-Total Commits (2024)   30                  ╔═╗    
-Total PRs              111                 ╠═╣ ═╬═
-Total Issues           91                  ╩ ╩    
-Contributed to         5                  
+Total Stars Earned      756
+Total Commits           792
+Total Commits (2024)    30                  ╔═╗   
+Total PRs               111                 ╠═╣ ──
+Total Issues            91                  ╩ ╩   
+Contributed to (2024)   5
 ```
 
 <!--END_SECTION:stats-->
