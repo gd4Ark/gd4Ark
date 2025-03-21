@@ -4,7 +4,7 @@
 
 ```text
 Total Stars Earned      775
-Total Commits           829
+Total Commits           658
 Total Commits (2025)    38                  ╔═╗   
 Total PRs               116                 ╠═╣ ──
 Total Issues            96                  ╩ ╩   
