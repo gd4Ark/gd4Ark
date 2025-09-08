@@ -3,7 +3,7 @@
 <!--START_SECTION:stats-->
 
 ```text
-Total Stars Earned      797
+Total Stars Earned      798
 Total Commits           900
 Total Commits (2025)    22                  ╔═╗   
 Total PRs               116                 ╠═╣ ──
